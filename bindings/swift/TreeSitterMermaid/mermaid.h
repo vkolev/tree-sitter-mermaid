@@ -13,4 +13,4 @@ extern TSLanguage *tree_sitter_mermaid();
 }
 #endif
 
-#endif
+#endif // TREE_SITTER_MERMAID_H_
