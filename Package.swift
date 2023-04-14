@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "TreeSitterMermaid",
-    platforms: [.macOS(.10_13), .iOS(.v11)],
+    platforms: [.macOS(.v10_13), .iOS(.v11)],
     products: [
         .library(name: "TreeSitterMermaid", targets: ["TreeSitterMermaid"]),
     ],
