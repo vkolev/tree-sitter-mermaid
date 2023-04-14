@@ -16,7 +16,7 @@ let package = Package(
                 "binding.gyp",
                 "bindings",
                 "Cargo.toml",
-                "Cargo.lock"
+                "Cargo.lock",
                 "corpus",
                 "grammer.js",
                 "LICENSE",
