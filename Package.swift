@@ -34,6 +34,6 @@ let package = Package(
                 .copy("queries")
             ],
             publicHeadersPath: "bindings/swift",
-            cSettings: [.headerSearchPath("src")]
+            cSettings: [.headerSearchPath("src")])
     ]
 )
